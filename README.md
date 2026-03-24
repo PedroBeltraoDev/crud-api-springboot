@@ -1,4 +1,4 @@
-# 📦 carApi - CRUD de Usuários com Spring Boot
+# CRUD de Usuários com Spring Boot
 
 API RESTful desenvolvida em **Java com Spring Boot**, utilizando **MySQL** como banco de dados e arquitetura baseada em camadas. Essa aplicação permite **cadastrar, listar, buscar, atualizar e deletar usuários**.
 
